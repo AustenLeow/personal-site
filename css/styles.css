@@ -194,6 +194,10 @@ table {
   width: 70%;
 }
 
+.call-img {
+  width: 10%;
+}
+
 .contact-button {
    -webkit-border-radius: 20px;
    -moz-border-radius: 20px;
